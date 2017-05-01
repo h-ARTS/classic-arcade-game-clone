@@ -1,6 +1,11 @@
 Classic Arcade Game YESS!
 ===============================
 
+Front-End Developer Project of Udacity.
+This game has been developed in object-oriented way. Technologies used: HTML5 Canvas & JavaScript
+
+## How to
+
 1. Start the game by opening the index.html file.
 
 2. You can use the arrow keys or WASD keys.
@@ -9,9 +14,9 @@ Classic Arcade Game YESS!
 
 4. The End
 
-Resources:
+### Resources:
 
-www.w3schools.com
-www.udacity.com
-http://www.webmasterpro.de (german)
-http://www.html5canvastutorials.com
+* [w3schools](www.w3schools.com)
+* [Udacity](www.udacity.com)
+* [Webmaster Pro (German)](http://www.webmasterpro.de)
+* [HTML5 Canvas](http://www.html5canvastutorials.com)
